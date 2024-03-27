@@ -1,13 +1,12 @@
-# pinn_files
+# foam pinn os
+https://drive.google.com/file/d/1dnTkT_LkCZyEBEm9Nxq1iKWKkQVVUc16/view?usp=sharing 
 
-download standalone installations from -
-https://drive.google.com/file/d/1rW-oh2sYrrqtN1f4-38edwOCuJJgLrk_/view?usp=drive_link
+# additional installation files
+https://drive.google.com/drive/folders/1-yvHW5T194rbXaxZwWPmms27WOra0nYN?usp=sharing
 
-docker installation -
-https://drive.google.com/file/d/1uOS43ih4QsRPxsyXSEY-tTwEODJArOvh/view?usp=drive_link
+# libtorch tutorials
+https://drive.google.com/file/d/16921MqAS89t-knz-uX02H9PMbPOhmlv6/view?usp=sharing
 
-docker container 1 -
-https://drive.google.com/file/d/1wNQ3TtQF02gwOGeYySDMEzyhvcPNBvxE/view?usp=drive_link
 
 instructions for loading image
 You will need to save the Docker image as a tar file:
