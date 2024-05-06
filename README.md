@@ -1,3 +1,6 @@
+# phygeonet env
+https://drive.google.com/file/d/1zD00jkQEwWpa6isfzdNCSwu0B454nI5Q/view?usp=sharing
+
 # foam pinn os
 https://drive.google.com/file/d/1Ld7-bjrxbIbJG7tsE-_NEw3_BT4BLn9s/view?usp=sharing
 
